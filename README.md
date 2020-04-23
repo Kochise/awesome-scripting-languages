@@ -16,26 +16,26 @@ Ideally it should be self "compilable", but this one might be a bit far-fetched 
 
 Here is the list of features that might or might not present in the scripting language listed below:
 
-*Fam*: Family of language, mimick an already existing programming language<br>
-*Src*: Source language, in which is the scripting language programmed<br>
-*Use*: Overall usability, is the language an exploration or ready for production<br>
-*Syn*: Syntax simplicity, scarcity of the scripting syntax to get the job done<br>
-*Typ*: Type system, dynamic or static<br>
-*Bin*: Binary operators, like or xor and nand shift<br>
-*Int*: Integer operators, like add sub mul div, constants like enum<br>
-*Flt*: Float operators, like add sub mul div, constants like pi, units like deg grad rad<br>
-*Str*: String functions, like ascii ansi unicode ucs utf widechar codepoint codepage<br>
-*Dat*: Data structures, like array list tuple struct hash map tree edge<br>
-*Mem*: Memory allocator, like dl jl gc<br>
-*Ffi*: Foreign function interface, can interface to other programming language<br>
-*Dll*: Dynamic loadable library, can load other modules dynamically (self or bin)<br>
-*Dbi*: Database interface, can interface with database, or have one integrated<br>
-*Snd*: Sound interface, like synth sfx openal<br>
-*Gfx*: Graphic interface, like sdl gl vulkan<br>
-*Net*: Network interface, like tcp udp ftp<br>
-*Plus*: Additional features, like make caffee webcam robot<br>
-*Size*: Typical compiled size in kB (stripped tcc-win32 release)<br>
-*Perf*: Typical performance in % (compared to tcc-win32 equivalent)
+**Fam**: Family of language, mimick an already existing programming language<br>
+**Src**: Source language, in which is the scripting language programmed<br>
+**Use**: Overall usability, is the language an exploration or ready for production<br>
+**Syn**: Syntax simplicity, scarcity of the scripting syntax to get the job done<br>
+**Typ**: Type system, dynamic or static<br>
+**Bin**: Binary operators, like or xor and nand shift<br>
+**Int**: Integer operators, like add sub mul div, constants like enum<br>
+**Flt**: Float operators, like add sub mul div, constants like pi, units like deg grad rad<br>
+**Str**: String functions, like ascii ansi unicode ucs utf widechar codepoint codepage<br>
+**Dat**: Data structures, like array list tuple struct hash map tree edge<br>
+**Mem**: Memory allocator, like dl jl gc<br>
+**Ffi**: Foreign function interface, can interface to other programming language<br>
+**Dll**: Dynamic loadable library, can load other modules dynamically (self or bin)<br>
+**Dbi**: Database interface, can interface with database, or have one integrated<br>
+**Snd**: Sound interface, like synth sfx openal<br>
+**Gfx**: Graphic interface, like sdl gl vulkan<br>
+**Net**: Network interface, like tcp udp ftp<br>
+**Plus**: Additional features, like make caffee webcam robot<br>
+**Size**: Typical compiled size in kB (stripped tcc-win32 release)<br>
+**Perf**: Typical performance in % (compared to tcc-win32 equivalent)
 
 Numbers given in cells are subjective quality (0-poor to 5-great).<br>
 Missing number means the given feature is not present.
